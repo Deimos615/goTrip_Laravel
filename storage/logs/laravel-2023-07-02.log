@@ -1,0 +1,16 @@
+[2023-07-02 16:47:07] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Admin@Airlpace.com  has created flight Amazing",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/airlpace.com\/images\/avatar.png\" alt=\"Admin@Airlpace.com \">",
+    "link": "https:\/\/airlpace.com\/admin\/module\/flight\/edit\/61",
+    "idNotification": "e233e1ab-a755-424a-88d2-5a440c2ddd70",
+    "socket": null
+}  
+[2023-07-02 17:02:48] production.INFO: Broadcasting [App\Events\PusherNotificationAdminEvent] on channels [admin-channel] with payload:
+{
+    "message": "Amazing was updated to Publish by Admin@Airlpace.com ",
+    "avatar": "<img class=\"image-responsive\" src=\"https:\/\/airlpace.com\/images\/avatar.png\" alt=\"Admin@Airlpace.com \">",
+    "link": "https:\/\/airlpace.com\/admin\/module\/flight?id=61",
+    "idNotification": "72a6d8da-1bba-43fe-b8c8-63f57f5e0568",
+    "socket": null
+}  
